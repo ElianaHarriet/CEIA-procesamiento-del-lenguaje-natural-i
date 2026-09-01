@@ -1,0 +1,3 @@
+[submodule "procesamiento_lenguaje_natural"]
+	path = procesamiento_lenguaje_natural
+	url = https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural.git
