@@ -21,3 +21,9 @@ __pycache__/
 
 # Hidden folders
 .*/
+
+# Data files
+desafio2/songs_dataset/*
+desafio2/vectors.tsv
+desafio2/labels.tsv
+desafio2/songs_dataset.zip
