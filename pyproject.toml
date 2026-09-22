@@ -13,6 +13,10 @@ dependencies = [
     "gensim>=4.3",
     "tensorflow>=2.13",
     "plotly>=5.0",
+    "beautifulsoup4>=4.12",
+    "lxml>=4.9",
+    "scipy>=1.11",
+    "gradio>=4.0",
 ]
 
 [project.optional-dependencies]
