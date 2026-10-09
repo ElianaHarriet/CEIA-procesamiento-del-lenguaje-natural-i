@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# agente
+.tmp/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -29,3 +32,9 @@ desafio2/labels.tsv
 desafio2/songs_dataset.zip
 desafio3/my_model.keras
 desafio3/model_*.keras
+desafio4/spa-eng/
+desafio4/spa-eng.zip
+desafio4/spa-eng-anki/
+desafio4/spa-eng-anki.zip
+desafio4/gloveembedding.pkl
+desafio4/*.keras
