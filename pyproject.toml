@@ -17,6 +17,8 @@ dependencies = [
     "lxml>=4.9",
     "scipy>=1.11",
     "gradio>=4.0",
+    "nltk>=3.8",
+    "gdown>=5.0",
 ]
 
 [project.optional-dependencies]
