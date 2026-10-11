@@ -37,4 +37,6 @@ desafio4/spa-eng.zip
 desafio4/spa-eng-anki/
 desafio4/spa-eng-anki.zip
 desafio4/gloveembedding.pkl
+desafio4/fasttext_es.vec.gz
+desafio4/fasttext_es_vocab.pkl
 desafio4/*.keras
